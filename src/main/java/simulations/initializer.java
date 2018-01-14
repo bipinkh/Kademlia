@@ -1,17 +1,14 @@
-package impl;
+package simulations;
 
 
 import kademlia.JKademliaNode;
-import kademlia.KademliaNode;
 import kademlia.dht.GetParameter;
 import kademlia.dht.JKademliaStorageEntry;
-import kademlia.dht.KadContent;
 import kademlia.exceptions.ContentNotFoundException;
 import kademlia.node.KademliaId;
 import kademlia.simulations.DHTContentImpl;
 
 import java.io.IOException;
-import java.util.List;
 
 /**
  * @author bipin khatiwada

@@ -38,6 +38,7 @@ public class SaveStateTest2
                 kad1.putLocally(c);
             }
 
+            System.out.println("check");
             System.out.println(kad1);
             System.out.println(kad2);
 

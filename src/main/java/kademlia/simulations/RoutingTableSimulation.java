@@ -4,6 +4,11 @@ import kademlia.JKademliaNode;
 import kademlia.node.KademliaId;
 import kademlia.routing.KademliaRoutingTable;
 
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.io.FileOutputStream;
+import java.io.PrintStream;
+
 /**
  * Testing how the routing table works and checking if everything works properly
  *
@@ -13,8 +18,14 @@ import kademlia.routing.KademliaRoutingTable;
 public class RoutingTableSimulation
 {
 
-    public RoutingTableSimulation()
-    {
+    public RoutingTableSimulation() throws FileNotFoundException {
+        //getting all the console outputs to the text file for easy read
+        File file = new File("outputFile.txt"); //Your file
+        FileOutputStream fos = new FileOutputStream(file);
+        PrintStream ps = new PrintStream(fos);
+        System.setOut(ps);
+        // all System.out.println prints to the texr file
+
         try
         {
             /* Setting up 2 Kad networks */
@@ -50,8 +61,7 @@ public class RoutingTableSimulation
         }
     }
 
-    public static void main(String[] args)
-    {
+    public static void main(String[] args) throws FileNotFoundException {
         new RoutingTableSimulation();
     }
 }

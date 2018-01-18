@@ -1,0 +1,769 @@
+-----------------------------------------------------------------Priting Routing Table-----------------------------------------------------------------
+
+Printing Routing Table Started ***************** 
+# nodes in Bucket with depth 0: 1
+Bucket at depth: 0
+ Nodes: 
+Node: 4852463435363738395344353834353637343630 (stale: 0)
+
+# nodes in Bucket with depth 155: 5
+Bucket at depth: 155
+ Nodes: 
+Node: 4146473435363738393437353834353637343632 (stale: 0)
+Node: 4153463435363738393437354453353637343631 (stale: 0)
+Node: 46534634354A3338393437353834353637343633 (stale: 0)
+Node: 4153463435363738393437353834353637343634 (stale: 0)
+Node: 4748463435363738393444523834353637343635 (stale: 0)
+
+
+Total Contacts: 6
+
+Printing Routing Table Ended ******************** 
+
+Printing Routing Table Started ***************** 
+# nodes in Bucket with depth 0: 1
+Bucket at depth: 0
+ Nodes: 
+Node: 4153463435363738393437354453353637343631 (stale: 0)
+
+# nodes in Bucket with depth 62: 3
+Bucket at depth: 62
+ Nodes: 
+Node: 4153463435363738393437353834353637343634 (stale: 0)
+Node: 4153463435363738393437353834353637343636 (stale: 0)
+Node: 4153463435363738393437353834353637345539 (stale: 0)
+
+# nodes in Bucket with depth 138: 1
+Bucket at depth: 138
+ Nodes: 
+Node: 4153414135363738393437353834353637343638 (stale: 0)
+
+# nodes in Bucket with depth 148: 2
+Bucket at depth: 148
+ Nodes: 
+Node: 4146473435363738393437353834353637343632 (stale: 0)
+Node: 4145333435363738393437353834353637343637 (stale: 0)
+
+# nodes in Bucket with depth 154: 2
+Bucket at depth: 154
+ Nodes: 
+Node: 46534634354A3338393437353834353637343633 (stale: 0)
+Node: 4748463435363738393444523834353637343635 (stale: 0)
+
+# nodes in Bucket with depth 155: 1
+Bucket at depth: 155
+ Nodes: 
+Node: 4852463435363738395344353834353637343630 (stale: 0)
+
+
+Total Contacts: 10
+
+Printing Routing Table Ended ******************** 
+
+Printing Routing Table Started ***************** 
+# nodes in Bucket with depth 0: 1
+Bucket at depth: 0
+ Nodes: 
+Node: 4146473435363738393437353834353637343632 (stale: 0)
+
+# nodes in Bucket with depth 145: 1
+Bucket at depth: 145
+ Nodes: 
+Node: 4145333435363738393437353834353637343637 (stale: 0)
+
+# nodes in Bucket with depth 148: 5
+Bucket at depth: 148
+ Nodes: 
+Node: 4153463435363738393437354453353637343631 (stale: 0)
+Node: 4153463435363738393437353834353637343634 (stale: 0)
+Node: 4153463435363738393437353834353637343636 (stale: 0)
+Node: 4153414135363738393437353834353637343638 (stale: 0)
+Node: 4153463435363738393437353834353637345539 (stale: 0)
+
+# nodes in Bucket with depth 154: 2
+Bucket at depth: 154
+ Nodes: 
+Node: 46534634354A3338393437353834353637343633 (stale: 0)
+Node: 4748463435363738393444523834353637343635 (stale: 0)
+
+# nodes in Bucket with depth 155: 1
+Bucket at depth: 155
+ Nodes: 
+Node: 4852463435363738395344353834353637343630 (stale: 0)
+
+
+Total Contacts: 10
+
+Printing Routing Table Ended ******************** 
+
+Printing Routing Table Started ***************** 
+# nodes in Bucket with depth 0: 1
+Bucket at depth: 0
+ Nodes: 
+Node: 46534634354A3338393437353834353637343633 (stale: 0)
+
+# nodes in Bucket with depth 152: 1
+Bucket at depth: 152
+ Nodes: 
+Node: 4748463435363738393444523834353637343635 (stale: 0)
+
+# nodes in Bucket with depth 154: 4
+Bucket at depth: 154
+ Nodes: 
+Node: 4153463435363738393437353834353637343634 (stale: 0)
+Node: 4153463435363738393437353834353637343636 (stale: 0)
+Node: 4153414135363738393437353834353637343638 (stale: 0)
+Node: 4145333435363738393437353834353637343637 (stale: 0)
+
+# nodes in Bucket with depth 155: 1
+Bucket at depth: 155
+ Nodes: 
+Node: 4852463435363738395344353834353637343630 (stale: 118)
+
+
+Total Contacts: 7
+
+Printing Routing Table Ended ******************** 
+
+Printing Routing Table Started ***************** 
+# nodes in Bucket with depth 0: 1
+Bucket at depth: 0
+ Nodes: 
+Node: 4153463435363738393437353834353637343634 (stale: 0)
+
+# nodes in Bucket with depth 1: 1
+Bucket at depth: 1
+ Nodes: 
+Node: 4153463435363738393437353834353637343636 (stale: 0)
+
+# nodes in Bucket with depth 14: 1
+Bucket at depth: 14
+ Nodes: 
+Node: 4153463435363738393437353834353637345539 (stale: 0)
+
+# nodes in Bucket with depth 62: 1
+Bucket at depth: 62
+ Nodes: 
+Node: 4153463435363738393437354453353637343631 (stale: 96)
+
+# nodes in Bucket with depth 138: 1
+Bucket at depth: 138
+ Nodes: 
+Node: 4153414135363738393437353834353637343638 (stale: 0)
+
+# nodes in Bucket with depth 148: 2
+Bucket at depth: 148
+ Nodes: 
+Node: 4146473435363738393437353834353637343632 (stale: 126)
+Node: 4145333435363738393437353834353637343637 (stale: 0)
+
+# nodes in Bucket with depth 154: 2
+Bucket at depth: 154
+ Nodes: 
+Node: 46534634354A3338393437353834353637343633 (stale: 138)
+Node: 4748463435363738393444523834353637343635 (stale: 0)
+
+# nodes in Bucket with depth 155: 1
+Bucket at depth: 155
+ Nodes: 
+Node: 4852463435363738395344353834353637343630 (stale: 126)
+
+
+Total Contacts: 10
+
+Printing Routing Table Ended ******************** 
+
+Printing Routing Table Started ***************** 
+# nodes in Bucket with depth 0: 1
+Bucket at depth: 0
+ Nodes: 
+Node: 4748463435363738393444523834353637343635 (stale: 0)
+
+# nodes in Bucket with depth 152: 1
+Bucket at depth: 152
+ Nodes: 
+Node: 46534634354A3338393437353834353637343633 (stale: 216)
+
+# nodes in Bucket with depth 154: 5
+Bucket at depth: 154
+ Nodes: 
+Node: 4153463435363738393437354453353637343631 (stale: 0)
+Node: 4146473435363738393437353834353637343632 (stale: 0)
+Node: 4153414135363738393437353834353637343638 (stale: 0)
+Node: 4145333435363738393437353834353637343637 (stale: 0)
+Node: 4153463435363738393437353834353637343636 (stale: 0)
+
+# nodes in Bucket with depth 155: 1
+Bucket at depth: 155
+ Nodes: 
+Node: 4852463435363738395344353834353637343630 (stale: 0)
+
+
+Total Contacts: 8
+
+Printing Routing Table Ended ******************** 
+
+Printing Routing Table Started ***************** 
+# nodes in Bucket with depth 0: 1
+Bucket at depth: 0
+ Nodes: 
+Node: 4153463435363738393437353834353637343636 (stale: 0)
+
+# nodes in Bucket with depth 1: 1
+Bucket at depth: 1
+ Nodes: 
+Node: 4153463435363738393437353834353637343634 (stale: 178)
+
+# nodes in Bucket with depth 14: 1
+Bucket at depth: 14
+ Nodes: 
+Node: 4153463435363738393437353834353637345539 (stale: 0)
+
+# nodes in Bucket with depth 62: 1
+Bucket at depth: 62
+ Nodes: 
+Node: 4153463435363738393437354453353637343631 (stale: 222)
+
+# nodes in Bucket with depth 138: 1
+Bucket at depth: 138
+ Nodes: 
+Node: 4153414135363738393437353834353637343638 (stale: 0)
+
+# nodes in Bucket with depth 148: 2
+Bucket at depth: 148
+ Nodes: 
+Node: 4146473435363738393437353834353637343632 (stale: 180)
+Node: 4145333435363738393437353834353637343637 (stale: 0)
+
+# nodes in Bucket with depth 154: 2
+Bucket at depth: 154
+ Nodes: 
+Node: 4748463435363738393444523834353637343635 (stale: 277)
+Node: 46534634354A3338393437353834353637343633 (stale: 0)
+
+# nodes in Bucket with depth 155: 1
+Bucket at depth: 155
+ Nodes: 
+Node: 4852463435363738395344353834353637343630 (stale: 0)
+
+
+Total Contacts: 10
+
+Printing Routing Table Ended ******************** 
+
+Printing Routing Table Started ***************** 
+# nodes in Bucket with depth 0: 1
+Bucket at depth: 0
+ Nodes: 
+Node: 4145333435363738393437353834353637343637 (stale: 0)
+
+# nodes in Bucket with depth 145: 1
+Bucket at depth: 145
+ Nodes: 
+Node: 4146473435363738393437353834353637343632 (stale: 168)
+
+# nodes in Bucket with depth 148: 4
+Bucket at depth: 148
+ Nodes: 
+Node: 4153463435363738393437353834353637343636 (stale: 5)
+Node: 4153463435363738393437354453353637343631 (stale: 189)
+Node: 4153463435363738393437353834353637345539 (stale: 0)
+Node: 4153414135363738393437353834353637343638 (stale: 0)
+
+# nodes in Bucket with depth 154: 2
+Bucket at depth: 154
+ Nodes: 
+Node: 46534634354A3338393437353834353637343633 (stale: 0)
+Node: 4748463435363738393444523834353637343635 (stale: 0)
+
+# nodes in Bucket with depth 155: 1
+Bucket at depth: 155
+ Nodes: 
+Node: 4852463435363738395344353834353637343630 (stale: 0)
+
+
+Total Contacts: 9
+
+Printing Routing Table Ended ******************** 
+
+Printing Routing Table Started ***************** 
+# nodes in Bucket with depth 0: 1
+Bucket at depth: 0
+ Nodes: 
+Node: 4153414135363738393437353834353637343638 (stale: 0)
+
+# nodes in Bucket with depth 138: 5
+Bucket at depth: 138
+ Nodes: 
+Node: 4153463435363738393437353834353637345539 (stale: 0)
+Node: 4153463435363738393437354453353637343631 (stale: 174)
+Node: 4153463435363738393437353834353637343636 (stale: 166)
+Node: 4153463435363738393437353834353637343634 (stale: 169)
+Node: 4153463435363738393437353834353637343636 (stale: 166)
+
+# nodes in Bucket with depth 148: 2
+Bucket at depth: 148
+ Nodes: 
+Node: 4146473435363738393437353834353637343632 (stale: 175)
+Node: 4145333435363738393437353834353637343637 (stale: 0)
+
+# nodes in Bucket with depth 154: 2
+Bucket at depth: 154
+ Nodes: 
+Node: 4748463435363738393444523834353637343635 (stale: 0)
+Node: 46534634354A3338393437353834353637343633 (stale: 0)
+
+# nodes in Bucket with depth 155: 1
+Bucket at depth: 155
+ Nodes: 
+Node: 4852463435363738395344353834353637343630 (stale: 0)
+
+
+Total Contacts: 11
+
+Printing Routing Table Ended ******************** 
+
+Printing Routing Table Started ***************** 
+# nodes in Bucket with depth 0: 1
+Bucket at depth: 0
+ Nodes: 
+Node: 4153463435363738393437353834353637345539 (stale: 0)
+
+# nodes in Bucket with depth 14: 2
+Bucket at depth: 14
+ Nodes: 
+Node: 4153463435363738393437353834353637343634 (stale: 0)
+Node: 4153463435363738393437353834353637343636 (stale: 0)
+
+# nodes in Bucket with depth 62: 1
+Bucket at depth: 62
+ Nodes: 
+Node: 4153463435363738393437354453353637343631 (stale: 0)
+
+# nodes in Bucket with depth 138: 1
+Bucket at depth: 138
+ Nodes: 
+Node: 4153414135363738393437353834353637343638 (stale: 2)
+
+# nodes in Bucket with depth 148: 2
+Bucket at depth: 148
+ Nodes: 
+Node: 4146473435363738393437353834353637343632 (stale: 0)
+Node: 4145333435363738393437353834353637343637 (stale: 0)
+
+# nodes in Bucket with depth 154: 1
+Bucket at depth: 154
+ Nodes: 
+Node: 4748463435363738393444523834353637343635 (stale: 0)
+
+# nodes in Bucket with depth 155: 1
+Bucket at depth: 155
+ Nodes: 
+Node: 4852463435363738395344353834353637343630 (stale: 0)
+
+
+Total Contacts: 9
+
+Printing Routing Table Ended ******************** 
+-----------------------------------------------------------------Priting Storage-----------------------------------------------------------------
+Stored Content: 
+
+
+Stored Content: 
+
+
+Stored Content: 
+
+
+Stored Content: 
+
+
+Stored Content: 
+
+
+Stored Content: 
+
+
+Stored Content: 
+
+
+Stored Content: 
+
+
+Stored Content: 
+
+
+Stored Content: 
+
+
+-----------------------------------------------------------------Priting Routing Table Again-----------------------------------------------------------------
+
+Printing Routing Table Started ***************** 
+# nodes in Bucket with depth 0: 1
+Bucket at depth: 0
+ Nodes: 
+Node: 4852463435363738395344353834353637343630 (stale: 0)
+
+# nodes in Bucket with depth 155: 5
+Bucket at depth: 155
+ Nodes: 
+Node: 4146473435363738393437353834353637343632 (stale: 0)
+Node: 4153463435363738393437353834353637343634 (stale: 0)
+Node: 4153463435363738393437354453353637343631 (stale: 0)
+Node: 4153463435363738393437353834353637343634 (stale: 0)
+Node: 4748463435363738393444523834353637343635 (stale: 0)
+
+
+Total Contacts: 6
+
+Printing Routing Table Ended ******************** 
+
+Printing Routing Table Started ***************** 
+# nodes in Bucket with depth 0: 1
+Bucket at depth: 0
+ Nodes: 
+Node: 4153463435363738393437354453353637343631 (stale: 0)
+
+# nodes in Bucket with depth 62: 3
+Bucket at depth: 62
+ Nodes: 
+Node: 4153463435363738393437353834353637343634 (stale: 0)
+Node: 4153463435363738393437353834353637343636 (stale: 0)
+Node: 4153463435363738393437353834353637345539 (stale: 0)
+
+# nodes in Bucket with depth 138: 1
+Bucket at depth: 138
+ Nodes: 
+Node: 4153414135363738393437353834353637343638 (stale: 0)
+
+# nodes in Bucket with depth 148: 2
+Bucket at depth: 148
+ Nodes: 
+Node: 4146473435363738393437353834353637343632 (stale: 0)
+Node: 4145333435363738393437353834353637343637 (stale: 0)
+
+# nodes in Bucket with depth 154: 2
+Bucket at depth: 154
+ Nodes: 
+Node: 46534634354A3338393437353834353637343633 (stale: 0)
+Node: 4748463435363738393444523834353637343635 (stale: 0)
+
+# nodes in Bucket with depth 155: 1
+Bucket at depth: 155
+ Nodes: 
+Node: 4852463435363738395344353834353637343630 (stale: 0)
+
+
+Total Contacts: 10
+
+Printing Routing Table Ended ******************** 
+
+Printing Routing Table Started ***************** 
+# nodes in Bucket with depth 0: 1
+Bucket at depth: 0
+ Nodes: 
+Node: 4146473435363738393437353834353637343632 (stale: 0)
+
+# nodes in Bucket with depth 145: 1
+Bucket at depth: 145
+ Nodes: 
+Node: 4145333435363738393437353834353637343637 (stale: 0)
+
+# nodes in Bucket with depth 148: 5
+Bucket at depth: 148
+ Nodes: 
+Node: 4153463435363738393437354453353637343631 (stale: 0)
+Node: 4153463435363738393437353834353637343634 (stale: 0)
+Node: 4153463435363738393437353834353637343636 (stale: 0)
+Node: 4153414135363738393437353834353637343638 (stale: 0)
+Node: 4153463435363738393437353834353637345539 (stale: 0)
+
+# nodes in Bucket with depth 154: 2
+Bucket at depth: 154
+ Nodes: 
+Node: 46534634354A3338393437353834353637343633 (stale: 0)
+Node: 4748463435363738393444523834353637343635 (stale: 0)
+
+# nodes in Bucket with depth 155: 1
+Bucket at depth: 155
+ Nodes: 
+Node: 4852463435363738395344353834353637343630 (stale: 0)
+
+
+Total Contacts: 10
+
+Printing Routing Table Ended ******************** 
+
+Printing Routing Table Started ***************** 
+# nodes in Bucket with depth 0: 1
+Bucket at depth: 0
+ Nodes: 
+Node: 46534634354A3338393437353834353637343633 (stale: 0)
+
+# nodes in Bucket with depth 152: 1
+Bucket at depth: 152
+ Nodes: 
+Node: 4748463435363738393444523834353637343635 (stale: 0)
+
+# nodes in Bucket with depth 154: 4
+Bucket at depth: 154
+ Nodes: 
+Node: 4153463435363738393437353834353637343634 (stale: 0)
+Node: 4153463435363738393437353834353637343636 (stale: 0)
+Node: 4153414135363738393437353834353637343638 (stale: 0)
+Node: 4145333435363738393437353834353637343637 (stale: 0)
+
+# nodes in Bucket with depth 155: 1
+Bucket at depth: 155
+ Nodes: 
+Node: 4852463435363738395344353834353637343630 (stale: 118)
+
+
+Total Contacts: 7
+
+Printing Routing Table Ended ******************** 
+
+Printing Routing Table Started ***************** 
+# nodes in Bucket with depth 0: 1
+Bucket at depth: 0
+ Nodes: 
+Node: 4153463435363738393437353834353637343634 (stale: 0)
+
+# nodes in Bucket with depth 1: 1
+Bucket at depth: 1
+ Nodes: 
+Node: 4153463435363738393437353834353637343636 (stale: 0)
+
+# nodes in Bucket with depth 14: 1
+Bucket at depth: 14
+ Nodes: 
+Node: 4153463435363738393437353834353637345539 (stale: 0)
+
+# nodes in Bucket with depth 62: 1
+Bucket at depth: 62
+ Nodes: 
+Node: 4153463435363738393437354453353637343631 (stale: 96)
+
+# nodes in Bucket with depth 138: 1
+Bucket at depth: 138
+ Nodes: 
+Node: 4153414135363738393437353834353637343638 (stale: 0)
+
+# nodes in Bucket with depth 148: 2
+Bucket at depth: 148
+ Nodes: 
+Node: 4146473435363738393437353834353637343632 (stale: 126)
+Node: 4145333435363738393437353834353637343637 (stale: 0)
+
+# nodes in Bucket with depth 154: 2
+Bucket at depth: 154
+ Nodes: 
+Node: 46534634354A3338393437353834353637343633 (stale: 138)
+Node: 4748463435363738393444523834353637343635 (stale: 0)
+
+# nodes in Bucket with depth 155: 1
+Bucket at depth: 155
+ Nodes: 
+Node: 4852463435363738395344353834353637343630 (stale: 0)
+
+
+Total Contacts: 10
+
+Printing Routing Table Ended ******************** 
+
+Printing Routing Table Started ***************** 
+# nodes in Bucket with depth 0: 1
+Bucket at depth: 0
+ Nodes: 
+Node: 4748463435363738393444523834353637343635 (stale: 0)
+
+# nodes in Bucket with depth 152: 1
+Bucket at depth: 152
+ Nodes: 
+Node: 46534634354A3338393437353834353637343633 (stale: 216)
+
+# nodes in Bucket with depth 154: 5
+Bucket at depth: 154
+ Nodes: 
+Node: 4153463435363738393437354453353637343631 (stale: 0)
+Node: 4146473435363738393437353834353637343632 (stale: 0)
+Node: 4153414135363738393437353834353637343638 (stale: 0)
+Node: 4145333435363738393437353834353637343637 (stale: 0)
+Node: 4153463435363738393437353834353637343636 (stale: 0)
+
+# nodes in Bucket with depth 155: 1
+Bucket at depth: 155
+ Nodes: 
+Node: 4852463435363738395344353834353637343630 (stale: 0)
+
+
+Total Contacts: 8
+
+Printing Routing Table Ended ******************** 
+
+Printing Routing Table Started ***************** 
+# nodes in Bucket with depth 0: 1
+Bucket at depth: 0
+ Nodes: 
+Node: 4153463435363738393437353834353637343636 (stale: 0)
+
+# nodes in Bucket with depth 1: 1
+Bucket at depth: 1
+ Nodes: 
+Node: 4153463435363738393437353834353637343634 (stale: 182)
+
+# nodes in Bucket with depth 14: 1
+Bucket at depth: 14
+ Nodes: 
+Node: 4153463435363738393437353834353637345539 (stale: 0)
+
+# nodes in Bucket with depth 62: 1
+Bucket at depth: 62
+ Nodes: 
+Node: 4153463435363738393437354453353637343631 (stale: 222)
+
+# nodes in Bucket with depth 138: 1
+Bucket at depth: 138
+ Nodes: 
+Node: 4153414135363738393437353834353637343638 (stale: 0)
+
+# nodes in Bucket with depth 148: 2
+Bucket at depth: 148
+ Nodes: 
+Node: 4146473435363738393437353834353637343632 (stale: 180)
+Node: 4145333435363738393437353834353637343637 (stale: 2)
+
+# nodes in Bucket with depth 154: 2
+Bucket at depth: 154
+ Nodes: 
+Node: 4748463435363738393444523834353637343635 (stale: 279)
+Node: 46534634354A3338393437353834353637343633 (stale: 31)
+
+# nodes in Bucket with depth 155: 1
+Bucket at depth: 155
+ Nodes: 
+Node: 4852463435363738395344353834353637343630 (stale: 0)
+
+
+Total Contacts: 10
+
+Printing Routing Table Ended ******************** 
+
+Printing Routing Table Started ***************** 
+# nodes in Bucket with depth 0: 1
+Bucket at depth: 0
+ Nodes: 
+Node: 4145333435363738393437353834353637343637 (stale: 0)
+
+# nodes in Bucket with depth 145: 1
+Bucket at depth: 145
+ Nodes: 
+Node: 4146473435363738393437353834353637343632 (stale: 2)
+
+# nodes in Bucket with depth 148: 4
+Bucket at depth: 148
+ Nodes: 
+Node: 4153463435363738393437353834353637343636 (stale: 5)
+Node: 4153463435363738393437354453353637343631 (stale: 189)
+Node: 4153414135363738393437353834353637343638 (stale: 13)
+Node: 4153463435363738393437353834353637345539 (stale: 1)
+
+# nodes in Bucket with depth 154: 2
+Bucket at depth: 154
+ Nodes: 
+Node: 46534634354A3338393437353834353637343633 (stale: 0)
+Node: 4748463435363738393444523834353637343635 (stale: 32)
+
+# nodes in Bucket with depth 155: 1
+Bucket at depth: 155
+ Nodes: 
+Node: 4852463435363738395344353834353637343630 (stale: 3)
+
+
+Total Contacts: 9
+
+Printing Routing Table Ended ******************** 
+
+Printing Routing Table Started ***************** 
+# nodes in Bucket with depth 0: 1
+Bucket at depth: 0
+ Nodes: 
+Node: 4153414135363738393437353834353637343638 (stale: 0)
+
+# nodes in Bucket with depth 138: 4
+Bucket at depth: 138
+ Nodes: 
+Node: 4153463435363738393437353834353637343636 (stale: 198)
+Node: 4153463435363738393437353834353637343636 (stale: 198)
+Node: 4153463435363738393437353834353637345539 (stale: 0)
+Node: 4153463435363738393437353834353637343634 (stale: 1)
+
+# nodes in Bucket with depth 148: 2
+Bucket at depth: 148
+ Nodes: 
+Node: 4146473435363738393437353834353637343632 (stale: 206)
+Node: 4145333435363738393437353834353637343637 (stale: 2)
+
+# nodes in Bucket with depth 154: 2
+Bucket at depth: 154
+ Nodes: 
+Node: 46534634354A3338393437353834353637343633 (stale: 0)
+Node: 4748463435363738393444523834353637343635 (stale: 4)
+
+# nodes in Bucket with depth 155: 1
+Bucket at depth: 155
+ Nodes: 
+Node: 4852463435363738395344353834353637343630 (stale: 11)
+
+
+Total Contacts: 10
+
+Printing Routing Table Ended ******************** 
+
+Printing Routing Table Started ***************** 
+# nodes in Bucket with depth 0: 1
+Bucket at depth: 0
+ Nodes: 
+Node: 4153463435363738393437353834353637345539 (stale: 0)
+
+# nodes in Bucket with depth 14: 2
+Bucket at depth: 14
+ Nodes: 
+Node: 4153463435363738393437353834353637343636 (stale: 0)
+Node: 4153463435363738393437353834353637343634 (stale: 140)
+
+# nodes in Bucket with depth 62: 1
+Bucket at depth: 62
+ Nodes: 
+Node: 4153463435363738393437354453353637343631 (stale: 110)
+
+# nodes in Bucket with depth 138: 1
+Bucket at depth: 138
+ Nodes: 
+Node: 4153414135363738393437353834353637343638 (stale: 282)
+
+# nodes in Bucket with depth 148: 2
+Bucket at depth: 148
+ Nodes: 
+Node: 4145333435363738393437353834353637343637 (stale: 0)
+Node: 4146473435363738393437353834353637343632 (stale: 0)
+
+# nodes in Bucket with depth 154: 1
+Bucket at depth: 154
+ Nodes: 
+Node: 4748463435363738393444523834353637343635 (stale: 0)
+
+# nodes in Bucket with depth 155: 1
+Bucket at depth: 155
+ Nodes: 
+Node: 4852463435363738395344353834353637343630 (stale: 0)
+
+
+Total Contacts: 9
+
+Printing Routing Table Ended ******************** 
+
+
+ ************************* Options **************************** 
+
+1 i - Print routing table of node i

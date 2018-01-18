@@ -1,6 +1,6 @@
 package kademlia.simulations;
 
-import java.io.IOException;
+import java.io.*;
 import java.util.Scanner;
 import kademlia.JKademliaNode;
 import kademlia.dht.KadContent;
@@ -19,8 +19,14 @@ public class RoutingTableStateTesting
 
     public int numKads = 10;
 
-    public RoutingTableStateTesting()
-    {
+    public RoutingTableStateTesting() throws FileNotFoundException {
+        //getting all the console outputs to the text file for easy read
+        File file = new File("outputFile.txt"); //Your file
+        FileOutputStream fos = new FileOutputStream(file);
+        PrintStream ps = new PrintStream(fos);
+        System.setOut(ps);
+        // all System.out.println prints to the texr file
+
         try
         {
             /* Setting up Kad networks */
@@ -105,24 +111,36 @@ public class RoutingTableStateTesting
         }
     }
 
-    public static void main(String[] args)
-    {
+    public static void main(String[] args) throws FileNotFoundException {
 
         RoutingTableStateTesting rtss = new RoutingTableStateTesting();
 
         try
         {
+            System.out.println("-----------------------------------------------------------------" +
+                    "Priting Routing Table"+
+                    "-----------------------------------------------------------------");
             rtss.printRoutingTables();
 
             /* Lets shut down a node to test the node removal operation */
             rtss.shutdownKad(rtss.kads[3]);
 
             rtss.putContent("Content owned by kad0", rtss.kads[0]);
+
+            System.out.println("-----------------------------------------------------------------" +
+                    "Priting Storage"+
+                    "-----------------------------------------------------------------");
+
             rtss.printStorage();
 
             Thread.sleep(1000);
 
             /* kad3 should be removed from their routing tables by now. */
+
+            System.out.println("-----------------------------------------------------------------" +
+                    "Priting Routing Table Again"+
+                    "-----------------------------------------------------------------");
+
             rtss.printRoutingTables();
         }
         catch (InterruptedException ex)
